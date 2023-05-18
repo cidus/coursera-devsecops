@@ -1,6 +1,6 @@
 name: Check URLs on posts
 
-on: [push]
+on: [pull_request]
 
 jobs:
   build:
