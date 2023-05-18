@@ -7,3 +7,5 @@ categories: coursera devops devsecops
 A third post was created.
 
 How audacious.
+
+And here I'm going to write an invalid URL, check this out: http://this.is.an.error
