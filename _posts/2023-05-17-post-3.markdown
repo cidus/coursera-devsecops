@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "DevSecOps course - post 2"
+title:  "DevSecOps course - post 3"
 date:   2023-05-17 23:37:00 -0300
 categories: coursera devops devsecops
 ---
-A **second** post was created,
+A third post was created.
+
+How audacious.
